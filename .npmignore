@@ -1,0 +1,11 @@
+dist
+test
+fixtures
+.tmp
+examples
+.github
+src
+README.md
+LICENSE
+package.json
+tsconfig.json

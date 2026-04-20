@@ -1,0 +1,10 @@
+{
+  "name": "fixture-app",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest"
+  }
+}

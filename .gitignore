@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+REPOPACK.md
+repo-map.json
+.tmp/
+repopack-*.tgz
